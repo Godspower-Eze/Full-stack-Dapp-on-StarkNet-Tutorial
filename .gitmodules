@@ -1,0 +1,3 @@
+[submodule "ERC-20 Token"]
+	path = contracts/ERC-20 Token
+	url = https://github.com/Godspower-Eze/ERC20-Token-with-Cairo
