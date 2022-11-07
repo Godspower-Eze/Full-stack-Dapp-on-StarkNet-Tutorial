@@ -267,7 +267,7 @@ function App() {
             </Button>
           ) : (
             <Button padding={5} marginTop="6" float="right">
-              <Text as="b">Streamify Token:</Text>
+              <Text as="b">GE Token:</Text>
               <Text>{balance} </Text>
               <Text>---{trimmedAddress}</Text>
             </Button>
